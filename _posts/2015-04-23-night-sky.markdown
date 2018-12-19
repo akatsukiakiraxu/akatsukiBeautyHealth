@@ -1,7 +1,7 @@
 ---
 title:  "test6"
 subtitle: "test6!"
-author: "Wferr"
+author: "Akatsuki"
 avatar: "img/authors/wferr.png"
 image: "img/d.png"
 date:   2015-04-23 12:12:12
